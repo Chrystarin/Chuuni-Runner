@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 5c8cf47da35ae934daee07f3fb6663f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1970422983969093827
+    second: sticksprite_0
+  - first:
+      213: -4533754682988170274
+    second: sticksprite_1
+  - first:
+      213: -5386786937675193648
+    second: sticksprite_2
+  - first:
+      213: 7933038584622331992
+    second: sticksprite_3
+  - first:
+      213: -7941015972377454433
+    second: sticksprite_4
+  - first:
+      213: -5443496091053534334
+    second: sticksprite_5
+  - first:
+      213: 8922758041658863930
+    second: sticksprite_6
+  - first:
+      213: -7247936324740088231
+    second: sticksprite_7
+  - first:
+      213: -8476968862024670024
+    second: sticksprite_8
+  - first:
+      213: -5628500713105651800
+    second: sticksprite_9
+  - first:
+      213: -3765675706558052840
+    second: sticksprite_10
+  - first:
+      213: -1184649302793392039
+    second: sticksprite_11
+  - first:
+      213: -5662667630777396338
+    second: sticksprite_12
+  - first:
+      213: 8828778844037455360
+    second: sticksprite_13
+  - first:
+      213: -7622361811702354479
+    second: sticksprite_14
+  - first:
+      213: 5924138886823894233
+    second: sticksprite_15
+  - first:
+      213: -1465305680413083511
+    second: sticksprite_16
+  - first:
+      213: -1142715547584404544
+    second: sticksprite_17
+  - first:
+      213: 7020570274696775342
+    second: sticksprite_18
+  - first:
+      213: 8702642966101369089
+    second: sticksprite_19
+  - first:
+      213: 3877738270947745893
+    second: sticksprite_20
+  - first:
+      213: 6476819166460763209
+    second: sticksprite_21
+  - first:
+      213: 3383260063818909107
+    second: sticksprite_22
+  - first:
+      213: -3134115772638242049
+    second: sticksprite_23
+  - first:
+      213: 3502006591324324151
+    second: sticksprite_24
+  - first:
+      213: 1698901070789803612
+    second: sticksprite_25
+  - first:
+      213: 5467361803287037350
+    second: sticksprite_26
+  - first:
+      213: 2464242433607618467
+    second: sticksprite_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sticksprite_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 20
+        width: 181
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37c14f5cb6a7a4e0800000000000000
+      internalID: -1970422983969093827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 18
+        width: 179
+        height: 267
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3f9bdf22ed411c0800000000000000
+      internalID: -4533754682988170274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 20
+        width: 180
+        height: 260
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2e72312d94e35b0800000000000000
+      internalID: -5386786937675193648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_3
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 18
+        width: 179
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858b1e9cf80d71e60800000000000000
+      internalID: 7933038584622331992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_4
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 20
+        width: 179
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f981db2eb08dbc190800000000000000
+      internalID: -7941015972377454433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_5
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 18
+        width: 181
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283d6846521d474b0800000000000000
+      internalID: -5443496091053534334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_6
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 20
+        width: 179
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3136d10a2104db70800000000000000
+      internalID: 8922758041658863930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_7
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 18
+        width: 180
+        height: 251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e773950582a6b90800000000000000
+      internalID: -7247936324740088231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_8
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 20
+        width: 179
+        height: 254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4e8fe9bb1cb5a80800000000000000
+      internalID: -8476968862024670024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_9
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 18
+        width: 180
+        height: 251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a70e492c6c83e1b0800000000000000
+      internalID: -5628500713105651800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_10
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 20
+        width: 180
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8160a4375e1adbbc0800000000000000
+      internalID: -3765675706558052840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_11
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 18
+        width: 180
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950f5935cb74f8fe0800000000000000
+      internalID: -1184649302793392039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_12
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 18
+        width: 180
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83196abac92a61b0800000000000000
+      internalID: -5662667630777396338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_13
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 18
+        width: 179
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e165fe49f168a70800000000000000
+      internalID: 8828778844037455360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_14
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 20
+        width: 180
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd6af7315ee73690800000000000000
+      internalID: -7622361811702354479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_15
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 18
+        width: 179
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc573d1ee4c63250800000000000000
+      internalID: 5924138886823894233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_16
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 20
+        width: 180
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988bd974f303aabe0800000000000000
+      internalID: -1465305680413083511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_17
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 18
+        width: 181
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c36aea83424420f0800000000000000
+      internalID: -1142715547584404544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_18
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 20
+        width: 179
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6c7ffd7731e6160800000000000000
+      internalID: 7020570274696775342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_19
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 18
+        width: 181
+        height: 262
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10126894baff5c870800000000000000
+      internalID: 8702642966101369089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_20
+      rect:
+        serializedVersion: 2
+        x: 3995
+        y: 20
+        width: 179
+        height: 265
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56027cb896e70d530800000000000000
+      internalID: 3877738270947745893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_21
+      rect:
+        serializedVersion: 2
+        x: 4194
+        y: 18
+        width: 180
+        height: 272
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cd55b57b842e950800000000000000
+      internalID: 6476819166460763209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_22
+      rect:
+        serializedVersion: 2
+        x: 4393
+        y: 20
+        width: 181
+        height: 265
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b501be4a11c3fe20800000000000000
+      internalID: 3383260063818909107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_23
+      rect:
+        serializedVersion: 2
+        x: 4594
+        y: 16
+        width: 179
+        height: 263
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffad2fe5f426184d0800000000000000
+      internalID: -3134115772638242049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_24
+      rect:
+        serializedVersion: 2
+        x: 4793
+        y: 20
+        width: 181
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73186fcb070a99030800000000000000
+      internalID: 3502006591324324151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_25
+      rect:
+        serializedVersion: 2
+        x: 4994
+        y: 18
+        width: 179
+        height: 262
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ef4f0d585b39710800000000000000
+      internalID: 1698901070789803612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_26
+      rect:
+        serializedVersion: 2
+        x: 5195
+        y: 20
+        width: 180
+        height: 265
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5867fb798ffdb40800000000000000
+      internalID: 5467361803287037350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sticksprite_27
+      rect:
+        serializedVersion: 2
+        x: 5394
+        y: 18
+        width: 180
+        height: 272
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af40afef6fb23220800000000000000
+      internalID: 2464242433607618467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
